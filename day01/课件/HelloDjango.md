@@ -29,8 +29,6 @@ Ubuntu + Python3  + Django + PyCharm
 
 ### 系统设置
 
-
-
 ### 常用命令
 
 - cd
